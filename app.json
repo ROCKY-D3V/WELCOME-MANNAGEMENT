@@ -10,7 +10,7 @@
       ],
     
    "logo": "https://te.legra.ph/file/d2d656ff1e4a61c9feff8.jpg",  
-   "repository": "https://github.com/IR-O/IRO_ROBOT",
+   "repository": "https://github.com/ROCKY-D3V/WELCOME-MANNAGEMENT",
    "addons": [
           {
          "options": {
@@ -46,7 +46,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "6045293810"
+         "value": "6545714937"
       },
       "STRING_SESSION": {
          "description": "Fill with telethon string session get it form @Iro_string_bot .",
@@ -71,21 +71,21 @@
       },  
       "BOT_USERNAME": {
          "description": "username of your bot without the @",
-         "value": "Iro_m_bot"
+         "value": "ADVANCE_XD_BOT"
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "shaeep43"
+         "value": "ROCKY_ISS_BACK"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "iro_x_support"
+         "value": "ITZ_4_U"
       },
       "UPDATES_CHANNEL": {
          "description": "Your Telegram update channel chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "iro_bot_support"
+         "value": "XD_N3TWORK"
       },         
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -105,7 +105,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "6045293810"
+         "value": "6545714937"
       },
       "ERROR_LOG": {
          "description": "ID of log for show error.",
@@ -128,22 +128,22 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "6045293810"
+         "value": "6545714937"
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "6045293810"
+         "value": "6545714937"
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "6045293810"
+         "value": "6545714937"
       },
       "WOLVES": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "6045293810"
+         "value": "6545714937"
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
@@ -176,12 +176,12 @@
       "START_IMG": {
          "description": "your favourate image",
          "required": false,
-         "value": "https://telegra.ph/file/e05de00926b92acd12240.jpg"
+         "value": "https://graph.org/file/360676a2c160029e03e46.jpg"
       },
         "START_STICKER": {
          "description": "Sticker that display on /start command",
          "required": "True",
-     "value": "CAACAgUAAxkBAAIhfGUVeAhX0S1du985W6Al4Z9MT7QMAAI9CQACFm7gVI4RHTP_GrcvMAQ"
+     "value": "CAACAgUAAx0CcPXgHwACSZxlbvMeAAGOr2Wtrqmrc0JVmIMUDJIAAvgMAAK-RXhXjxsxsvqMTXkzBA"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
