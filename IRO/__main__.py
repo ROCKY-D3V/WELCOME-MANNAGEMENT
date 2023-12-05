@@ -87,7 +87,7 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 
-DONATION_LINK = "https://t.me/shaeep43"
+DONATION_LINK = "https://t.me/ROCKY_ISS_BACK"
 
 start_txt = """
 ʜᴇʏ🥀 `{}`, ʜᴏᴡ ᴀʀᴇ ʏᴏᴜ!!
@@ -424,7 +424,7 @@ def IRO_about_callback(update, context):
     query = update.callback_query
     if query.data == "IRO_":
         query.message.edit_text(
-            text=f"๏ I'm [{BOT_NAME}](https://t.me/Iro_m_bot), ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ʙᴜɪʟᴛ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴇᴀꜱɪʟʏ."
+            text=f"๏ I'm [{BOT_NAME}](https://t.me/ADVANCE_XD_BOT), ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ʙᴜɪʟᴛ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴇᴀꜱɪʟʏ."
             "\n» ɪ ᴄᴀɴ ʀᴇꜱᴛʀɪᴄᴛ ᴜꜱᴇʀꜱ."
             "\n» ɪ ᴀᴍ ʙᴜɪʟᴛ ᴡɪᴛʜ [ᴘʏᴛʜᴏɴ](https://www.python.org/) ,[ᴍᴏɴɢᴏᴅʙ](https://www.mongodb.com/)."
             "\n» ᴍʏ ʙᴀꜱᴇ ɪꜱ ᴍᴀᴅᴇ ᴜᴘ ᴏꜰ [ᴛᴇʟᴇᴛʜᴏɴ](https://github.com/LonamiWebs/Telethon) ᴀɴᴅ [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)."
@@ -440,10 +440,10 @@ def IRO_about_callback(update, context):
                 [
                  [
         InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url=f"https://t.me/{OWNER_USERNAME}"),
-        InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/shaeep43"),
+        InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/ROCKY_ISS_BACK"),
                  ],
                  [
-        InlineKeyboardButton(text="ꜱᴏᴜʀᴄᴇ", url=f"https://github.com/IR-O/IRO_ROBOT"),
+        InlineKeyboardButton(text="ꜱᴏᴜʀᴄᴇ", url=f"https://t.me/N91Ab/6"),
                  ],
                  [
                     InlineKeyboardButton(text="◁", callback_data="IRO_back"),
@@ -776,11 +776,11 @@ def main():
         try:
             dispatcher.bot.sendAnimation(
                 f"@{SUPPORT_CHAT}",
-                animation="https://telegra.ph/file/76242492a4a2d080875af.mp4",
+                animation="https://graph.org/file/815a31ab6f51e22417fdc.mp4",
                 caption=f"""
 ㅤ{dispatcher.bot.first_name} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ .....
 ━━━━━━━━━━━━━
-» **ᴏᴡɴᴇʀ :** [Pi͢͢͢kสcђu♡](https://t.me/{OWNER_USERNAME})
+» **ᴏᴡɴᴇʀ :** [ʀᴏᴄᴋყ♡](https://t.me/{OWNER_USERNAME})
 » **ʟɪʙʀᴀʀʏ  :** `{so}`
 » **ᴛᴇʟᴇᴛʜᴏɴ :** `{am}`
 » **ᴘʏʀᴏɢʀᴀᴍ :** `{do}`
@@ -788,7 +788,7 @@ def main():
 » **ꜱQʟᴀʟᴄʜᴇᴍʏ :** `1.4.31`
 ━━━━━━━━━━━━━
 
-⍟ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [𝙄𝙍𝙊](https://t.me/iro_bot_support)
+⍟ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [xᴅ](https://t.me/+xj59j0oSkpg1ZTJl)
 
 """,
                 parse_mode=ParseMode.MARKDOWN,
